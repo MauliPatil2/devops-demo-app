@@ -58,7 +58,7 @@ git push -u origin main
 This taught me proper version control workflow used in software development.
 
 
-3. What I Learned (Extended Deep Explanation)
+3. What I Learned?
 
 - 🐳 Learned how to build, tag, and upload Docker images.  
 - 💻 Understood basic Linux commands and how they work inside a container.  
